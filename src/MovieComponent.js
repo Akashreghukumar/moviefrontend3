@@ -107,7 +107,7 @@ const history=useHistory();
                             Movie Review App
                         </Typography>
                         <div >
-                // <Button type="submit" variant="contained" style={{backgroundColor:"red"}} onClick={handlelogout}>Logout</Button>
+                
                  </div>
                     </Toolbar>
                   
