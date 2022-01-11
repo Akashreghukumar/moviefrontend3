@@ -115,7 +115,7 @@ const history=useHistory();
 
             </div>
             <div style={{ padding: '30px' }}>
-                <Grid container spacing={4}>
+                <Grid container spacing={4} style={{ display: 'grid' }}>
 
 
                     {movieList.map(row => (
